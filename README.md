@@ -1,2 +1,3 @@
-# Pricingtable
-A pricing table page
+# Pricing Table 💸
+
+A Responsive Pricing table was implemented using flexbox.
